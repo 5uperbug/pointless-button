@@ -5,13 +5,16 @@ The pointless button, inspired by the [ASDF movies](http://knowyourmeme.com/meme
 
 ### Steps to use
 + Create a Phonegap / Cordova application
-	+ `$ cordova create pointlessbutton com.example.pointlessbutton 'Pointless Button'`
+	
+	`$ cordova create pointlessbutton com.example.pointlessbutton 'Pointless Button'`
 
 + Change directory
-	+ `$ cd pointlessbutton/`
+	
+	`$ cd pointlessbutton/`
 
 + Clone this repo into the www/ folder
-	+ `$cd www; git clone https://github.com/5uperbug/pointless-button.git`
+	
+	`$cd www; git clone https://github.com/5uperbug/pointless-button.git`
 
 + Overwrite all the files
 
@@ -23,9 +26,11 @@ The pointless button, inspired by the [ASDF movies](http://knowyourmeme.com/meme
     $ cordova platform add android
 	```
 + Build the app
-	+ `$ cordova build`
+	
+	`$ cordova build`
 	
 + Run on the emulator
-	+ `$ cordova emulate`
+	
+	`$ cordova emulate`
 
 
