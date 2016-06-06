@@ -20,11 +20,11 @@ The pointless button, inspired by the [ASDF movies](http://knowyourmeme.com/meme
 
 + Add platform (Android/iOS/Windows etc)
 
-```bash
+    ```bash
     $ cordova platform add ios
     $ cordova platform add amazon-fireos
     $ cordova platform add android
-```
+    ```
 + Build the app
 	
     `$ cordova build`
